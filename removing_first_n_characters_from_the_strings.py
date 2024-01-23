@@ -8,13 +8,13 @@ def getting_nth_characters(name):
     return substring1
 
 def another_getting_nth_characters(name):
-    substring1 = name[7:]
-    return substring1
+    substring2 = name[7:]
+    return substring2
 
 
 # PSEUDO CODE
 # - Actual Code
-# - Printing the result from the substring
+# - Printing the result from the substring 1 and 2
 result1 = getting_nth_characters("Sheena Mae")
 print(result1)
 
